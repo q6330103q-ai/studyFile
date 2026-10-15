@@ -73,3 +73,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Project-specific IDE, Blender backup, and OS files
+.vscode/
+.idea/
+*.slnx
+*.blend1
+*.blend2
+.DS_Store
+Thumbs.db
