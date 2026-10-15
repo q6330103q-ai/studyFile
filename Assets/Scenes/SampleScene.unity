@@ -119,177 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &33975498
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.1862
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.13048
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
-      propertyPath: m_Name
-      value: Classic Cheeseburger-22f1053ea6a2fe7f56184f323971049b
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 1e8d3013822b61948a235ed0dfdb1616, type: 3}
---- !u!1001 &139557024
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.1862
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.13048
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
-      propertyPath: m_Name
-      value: Commercial Kitchen Island-2403f72255cbc67226c9af943ea32de5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 29cc5fd5b42c4db4ba4ba8afcb791a67, type: 3}
---- !u!1001 &142230621
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
-      propertyPath: m_Name
-      value: Blue Chef Robot-691b344a3281ad36c6973f417345d4ee
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cd1d7669e7183284f8c53b10d29b12de, type: 3}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -603,6 +432,197 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &919426545
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1862
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.13048
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2060789707785385855, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 599ade080de0e1a4992e0a59a8cdda3e, type: 2}
+    - target: {fileID: -2060789707785385855, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2107409826236812522, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+      propertyPath: m_Name
+      value: Blue Chef Robot-walk1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: d6216b15251ec0749b31aaf041b2cbd2, type: 3}
+--- !u!1001 &1833147757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1862
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.181
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.44
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8688467083786147558, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+      propertyPath: m_Name
+      value: Classic Cheeseburger-a1b7f9c3a2d10ddca2b3f971ea8c13f2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: 85b16a2ce18f8cb4d824dd586eec6408, type: 3}
+--- !u!1001 &1916384358
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.217
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.479
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -775087538475059120, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8688467083786147558, guid: 057da603c37054540a7a47152df8e28d, type: 3}
+      propertyPath: m_Name
+      value: Commercial Kitchen Island-23d538e876f17b8803cc702e83b4c464 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: 057da603c37054540a7a47152df8e28d, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -610,6 +630,6 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 832575519}
-  - {fileID: 142230621}
-  - {fileID: 33975498}
-  - {fileID: 139557024}
+  - {fileID: 1833147757}
+  - {fileID: 1916384358}
+  - {fileID: 919426545}
